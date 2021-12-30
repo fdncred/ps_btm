@@ -1,0 +1,628 @@
+pid|parent_pid|cpu_use_percent|mem_use_percent|mem_use_bytes|name|command|read_bytes_per_sec|write_bytes_per_sec|total_read_bytes|total_write_bytes|process_state|process_state_char|uid
+15695|1|0|0.12130476664286556|42680320|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|0|0|Runnable|R|501
+244|0|0|0|0|colorsyncd|colorsyncd|0|0|0|0|Unknown|?|0
+648|1|0|0.0740517870072234|26054656|deleted|/System/Library/PrivateFrameworks/CacheDelete.framework/deleted|0|0|30703616|335872|Runnable|R|501
+1044|1|0|0.008009374227475193|2818048|com.apple.DictionaryServiceHelper|/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/XPCServices/com.apple.DictionaryServiceHelper.xpc/Contents/MacOS/com.apple.DictionaryServiceHelper|0|0|61440|0|Runnable|R|501
+26007|1|0|0.5107256638569246|179695616|ExternalQuickLookSatellite-x86_64|/System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/ExternalQuickLookSatellite-x86_64.xpc/Contents/MacOS/ExternalQuickLookSatellite-x86_64|0|0|20914176|0|Runnable|R|501
+18701|1|0|0.015209661959587702|5351424|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|16384|0|Runnable|R|501
+703|1|0|0.023603206753206325|8304640|findmydevice-user-agent|/usr/libexec/findmydevice-user-agent|0|0|86016|0|Runnable|R|501
+369|0|0|0|0|cfprefsd|cfprefsd|0|0|0|0|Unknown|?|0
+987|1|0|0.016164267608792592|5687296|com.apple.audio.SandboxHelper|/System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper|0|0|0|0|Runnable|R|501
+385|0|0|0|0|securityd_service|securityd_service|0|0|0|0|Unknown|?|0
+549|1|0|0.046443893140279476|16340992|BlockerCustomExtension|/Applications/AdGuard for Safari.app/Contents/PlugIns/BlockerCustomExtension.appex/Contents/MacOS/BlockerCustomExtension -AppleLanguages ("en-US")|0|0|12288|0|Runnable|R|501
+424|1|0|0.03156601485145201|11106304|backgroundtaskmanagementagent|/System/Library/CoreServices/backgroundtaskmanagementagent|0|0|278528|12288|Runnable|R|501
+444|1|0|0.06456102779363451|22715392|pkd|/usr/libexec/pkd|0|0|12431360|114688|Runnable|R|501
+28394|0|0|0|0|microstackshot|microstackshot|0|0|0|0|Unknown|?|0
+515|1|0|0.1471024022360124|51757056|IMDPersistenceAgent|/System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent|0|0|6410240|4493312|Runnable|R|501
+14897|1|0|0.04153116650656649|14612480|com.apple.CloudDocs.MobileDocumentsFileProvider|/System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.MobileDocumentsFileProvider -AppleLanguages ("en-US")|0|0|188416|0|Runnable|R|501
+28881|1|0|0.03170862362221737|11156480|com.apple.AnnotationKit.MigratorService|/System/Library/PrivateFrameworks/AnnotationKit.framework/Versions/A/XPCServices/com.apple.AnnotationKit.MigratorService.xpc/Contents/MacOS/com.apple.AnnotationKit.MigratorService|0|0|90112|0|Runnable|R|501
+27769|1|0|0.08754723333454988|30802944|heard|/System/Library/PrivateFrameworks/HearingCore.framework/heard|0|0|46149632|0|Runnable|R|501
+36475|36466|0|7.088517380429385|2494050304|rust-analyzer|/Users/fdncred/.vscode/extensions/matklad.rust-analyzer-0.3.884/server/rust-analyzer|0|0|30973952|0|Runnable|R|501
+18275|417|0|4.301357012675708|1513405440|Tabby Helper (Renderer)|/Applications/Tabby.app/Contents/Frameworks/Tabby Helper (Renderer).app/Contents/MacOS/Tabby Helper (Renderer) --type=renderer --max-active-webgl-contexts=9000 --field-trial-handle=1718379636,16724957851166484795,15102933995014733927,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WindowCaptureMacV2 --lang=EN --app-path=/Applications/Tabby.app/Contents/Resources/app.asar --no-sandbox --no-zygote --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files|0|0|129892352|561152|Runnable|R|501
+153|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+367|0|0|0|0|com.apple.geod|com.apple.geod|0|0|0|0|Unknown|?|0
+12504|1|0|0.04391477024650188|15451136|appleaccountd|/usr/libexec/appleaccountd|0|0|1114112|16384|Runnable|R|501
+810|0|0|0|0|writeconfig|writeconfig|0|0|0|0|Unknown|?|0
+27775|1|0|0.03170862362221737|11156480|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|114688|0|Runnable|R|501
+252|0|0|0|0|com.apple.audio.SandboxHelper|com.apple.audio.SandboxHelper|0|0|0|0|Unknown|?|0
+452|1|0|0.7046677713316674|247932928|Electron|/Applications/Visual Studio Code.app/Contents/MacOS/Electron|0|0|187056128|95993856|Runnable|R|501
+513|1|0|0.01873704624872285|6592512|chrome_crashpad_handler|/Applications/Tabby.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/fdncred/Library/Application Support/tabby/Crashpad --metrics-dir=/Users/fdncred/Library/Application Support/tabby --url=https://sentry.io/api/181876/minidump/?sentry_key=4717a0a7ee0b4429bd3a0f06c3d7eec3 --annotation=_productName=tabby --annotation=_version=1.0.168 --annotation=prod=Electron --annotation=sentry___initialScope={"release":"1.0.168"} --annotation=ver=13.5.1 --handshake-fd=27|0|0|880640|0|Runnable|R|501
+457|1|0|0.08892966529605086|31289344|SystemUIServer|/System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer|0|0|921600|0|Runnable|R|501
+13579|1|0|0.059697777672227885|21004288|storeuid|/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid|0|0|204800|0|Runnable|R|501
+834|1|0|0.20327279561910513|71520256|ScreenTimeWidgetExtension|/System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension -AppleLanguages ("en-US")|0|0|10002432|700416|Runnable|R|501
+19092|1|0|0.07471826473182071|26289152|ThumbnailExtension_macOS|/System/Library/Frameworks/QuickLookThumbnailing.framework/Versions/A/PlugIns/ThumbnailExtension_macOS.appex/Contents/MacOS/ThumbnailExtension_macOS -AppleLanguages ("en-US")|0|0|622592|0|Runnable|R|501
+362|0|0|0|0|systemstats|systemstats|0|0|0|0|Unknown|?|0
+13421|1|0|0.01458975036421989|5133312|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+149|0|0.03|0|0|tccd|tccd|0|0|0|0|Unknown|?|0
+846|0|0|0|0|MTLCompilerService|MTLCompilerService|0|0|0|0|Unknown|?|0
+707|1|0|0.05922047484762544|20836352|SoftwareUpdateNotificationManager|/System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager|0|0|286720|0|Runnable|R|501
+505|1|0|0.07834169166249172|27564032|parsecd|/System/Library/PrivateFrameworks/CoreParsec.framework/parsecd|0|0|2564096|2625536|Runnable|R|501
+251|0|0|0|0|csnameddatad|csnameddatad|0|0|0|0|Unknown|?|0
+241|0|0|0|0|PlugInLibraryService|PlugInLibraryService|0|0|0|0|Unknown|?|0
+583|576|0|0.02608285313467757|9177088|fish|/opt/homebrew/bin/fish -l|0|0|401408|0|Runnable|R|501
+15694|1|0|1.6190519264145729|569653248|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|765952|991232|Runnable|R|501
+491|1|0|0.047538197177172885|16726016|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+567|0|0|0|0|wifivelocityd|wifivelocityd|0|0|0|0|Unknown|?|0
+600|1|0|0.007389462632107381|2599936|PlugInLibraryService|/System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService|0|0|0|0|Runnable|R|501
+451|1|0|2.1816231544024|767590400|Safari|/Applications/Safari.app/Contents/MacOS/Safari|0|0|360378368|42401792|Runnable|R|501
+307|0|0|0|0|coreauthd|coreauthd|0|0|0|0|Unknown|?|0
+256|0|0|0|0|aned|aned|0|0|0|0|Unknown|?|0
+447|1|0|0.4608125940890469|162134016|suggestd|/System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd|0|0|114274304|14426112|Runnable|R|501
+88|0|0|0|0|systemstats|systemstats|0|0|0|0|Unknown|?|0
+417|1|0|0.639056095247292|224847872|Tabby|/Applications/Tabby.app/Contents/MacOS/Tabby|0|0|92774400|39882752|Runnable|R|501
+472|1|0|0.042770989697302114|15048704|contactsd|/System/Library/Frameworks/Contacts.framework/Support/contactsd|0|0|9031680|1400832|Runnable|R|501
+124|0|0|0|0|auditd|auditd|0|0|0|0|Unknown|?|0
+25776|0|0|0|0|taskgated|taskgated|0|0|0|0|Unknown|?|0
+257|0|0|0|0|mobileactivationd|mobileactivationd|0|0|0|0|Unknown|?|0
+490|1|0|0.043390901292669926|15266816|fontd|/System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd|0|0|15171584|86016|Runnable|R|501
+431|0|0|0|0|WirelessRadioManagerd|WirelessRadioManagerd|0|0|0|0|Unknown|?|0
+151|0|0|0|0|authd|authd|0|0|0|0|Unknown|?|0
+599|1|0|0.058792648535329346|20685824|com.apple.geod|/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod|0|0|3801088|1404928|Runnable|R|501
+486|1|0|0.5401583679130498|190051328|Spotlight|/System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight|0|0|52482048|6844416|Runnable|R|501
+17462|0|0|0|0|EAUpdaterService|EAUpdaterService|0|0|0|0|Unknown|?|0
+7976|1|0|0.05764886798612958|20283392|tipsd|/usr/libexec/tipsd|0|0|1327104|262144|Runnable|R|501
+113|0|0|0|0|coreduetd|coreduetd|0|0|0|0|Unknown|?|0
+581|1|0|0.029371586011511495|10334208|com.apple.FaceTime.FTConversationService|/System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService|0|0|184320|4096|Runnable|R|501
+686|1|0|0.017881393624130663|6291456|followupd|/System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd|0|0|233472|0|Runnable|R|501
+14906|1|0|0.006626942265974205|2331648|PlugInLibraryService|/System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService|0|0|0|0|Runnable|R|501
+883|1|0|0.06937771178581163|24410112|sociallayerd|/System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd|0|0|1445888|0|Runnable|R|501
+468|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+556|1|0|0.03647583110208815|12833792|VTDecoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService|0|0|802816|36864|Runnable|R|501
+465|1|0|0.02755841735463757|9696256|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+442|1|0|0.062130857924469624|21860352|Keychain Circle Notification|/System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification|0|0|94208|8192|Runnable|R|501
+18806|1|0|0.014781835647291606|5200896|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+393|1|0|0.04029134331583087|14176256|com.apple.sbd|/System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd|0|0|7098368|15593472|Runnable|R|501
+26017|1|0|0.05521578773388784|19427328|QLPreviewGenerationExtension|/System/Library/Frameworks/QuickLookUI.framework/Versions/A/PlugIns/QLPreviewGenerationExtension.appex/Contents/MacOS/QLPreviewGenerationExtension -AppleLanguages ("en-US")|0|0|8192|0|Runnable|R|501
+493|1|0|0.09751238498966436|34309120|com.apple.Safari.SandboxBroker|/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker|0|0|188416|32702464|Runnable|R|501
+255|0|0|0|0|mDNSResponderHelper|mDNSResponderHelper|0|0|0|0|Unknown|?|0
+37518|1|0|0.037095742697455955|13051904|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|0|Runnable|R|501
+154|0|0|0|0|coreservicesd|coreservicesd|0|0|0|0|Unknown|?|0
+864|1|0|0.05445326736775467|19159040|newsd|/System/Library/PrivateFrameworks/NewsDaemon.framework/newsd|0|0|376832|124542976|Runnable|R|501
+1177|1|0|0.04029134331583087|14176256|com.apple.photos.VideoConversionService|/System/Library/PrivateFrameworks/MediaConversionService.framework/Versions/A/XPCServices/com.apple.photos.VideoConversionService.xpc/Contents/MacOS/com.apple.photos.VideoConversionService|0|0|5914312704|809107456|Runnable|R|501
+616|572|0|0.159119373960302|55985152|Electron|/Applications/Visual Studio Code.app/Contents/MacOS/Electron --ms-enable-electron-run-as-node /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=572|0|0|282624|0|Runnable|R|501
+1650|1|0|0.11906377167369553|41891840|CalendarWidgetExtension|/System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension -AppleLanguages ("en-US")|0|0|1015808|0|Runnable|R|501
+563|1|0|0.034426921415989846|12112896|contentlinkingd|/System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd|0|0|24576|0|Runnable|R|501
+37443|1|0|0.024843029943941948|8740864|com.apple.iCloudHelper|/System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper|0|0|208896|57344|Runnable|R|501
+37424|1|0|0.05001784355864413|17598464|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|0|Runnable|R|501
+12293|1|0|0.017450656928757722|6139904|mdworker|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing|0|0|372736|0|Runnable|R|501
+407|1|0|0.06618211116743672|23285760|siriactionsd|/System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd|0|0|11157504|77824|Runnable|R|501
+247|0|0|0|0|com.apple.audio.DriverHelper|com.apple.audio.DriverHelper|0|0|0|0|Unknown|?|0
+28306|1|0|0.06985501461041409|24578048|nbagent|/System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent|0|0|1236992|303104|Runnable|R|501
+13553|1|0|0.034284312645224475|12062720|com.apple.WebKit.Networking|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking|0|0|438272|155648|Runnable|R|501
+197|0|0|0|0|analyticsd|analyticsd|0|0|0|0|Unknown|?|0
+547|452|0|0.11463125824766184|40332288|Code Helper|/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1718379636,12613057910318958120,7186265368457246828,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WindowCaptureMacV2 --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/fdncred/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files --seatbelt-client=40|0|0|4964352|52473856|Runnable|R|501
+100|0|0|0|0|softwareupdated|softwareupdated|0|0|0|0|Unknown|?|0
+397|1|0|0.08740171418070766|30751744|donotdisturbd|/System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd|0|0|3477504|2211840|Runnable|R|501
+18586|1|0|0.011251540975079612|3958784|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+12453|0|0|0|0|batteryintelligenced|batteryintelligenced|0|0|0|0|Unknown|?|0
+526|0|0|0|0|IOUserBluetoothSerialDriver|IOUserBluetoothSerialDriver|0|0|0|0|Unknown|?|0
+13541|13540|0|0.0756728703810256|26625024|AdGuard for Safari Helper (GPU)|/Applications/AdGuard for Safari.app/Contents/Frameworks/AdGuard for Safari Helper (GPU).app/Contents/MacOS/AdGuard for Safari Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,7674647840753062123,5003114853972252846,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --gpu-preferences=MAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAA6AAAABwAAADgAAAAAAAAAOgAAAAAAAAA8AAAAAAAAAD4AAAAAAAAAAABAAAAAAAACAEAAAAAAAAQAQAAAAAAABgBAAAAAAAAIAEAAAAAAAAoAQAAAAAAADABAAAAAAAAOAEAAAAAAABAAQAAAAAAAEgBAAAAAAAAUAEAAAAAAABYAQAAAAAAAGABAAAAAAAAaAEAAAAAAABwAQAAAAAAAHgBAAAAAAAAgAEAAAAAAACIAQAAAAAAAJABAAAAAAAAmAEAAAAAAACgAQAAAAAAAKgBAAAAAAAAsAEAAAAAAAC4AQAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAAAAAAABwAAABAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAABAAAABgAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACgAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAANAAAAEAAAAAAAAAAEAAAAAAAAABAAAAAAAAAABAAAAAYAAAAQAAAAAAAAAAQAAAAHAAAAEAAAAAAAAAAEAAAACAAAABAAAAAAAAAABAAAAAoAAAAQAAAAAAAAAAQAAAALAAAAEAAAAAAAAAAEAAAADQAAABAAAAAAAAAABgAAAAAAAAAQAAAAAAAAAAYAAAAGAAAAEAAAAAAAAAAGAAAABwAAABAAAAAAAAAABgAAAAgAAAAQAAAAAAAAAAYAAAAKAAAAEAAAAAAAAAAGAAAACwAAABAAAAAAAAAABgAAAA0AAAA= --shared-files|0|0|53248|49152|Runnable|R|501
+531|1|0|0.21428859556496035|75396096|ContextService|/System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService|0|0|133697536|0|Runnable|R|501
+29412|18280|0|0.10857475106474909|38201344|engine-q|target/debug/engine-q|0|0|12439552|3547136|Runnable|R|501
+114|0|0|0|0|syslogd|syslogd|0|0|0|0|Unknown|?|0
+15077|1|0|0.011490192387380836|4042752|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+308|0|0|0|0|ctkahp|ctkahp|0|0|0|0|Unknown|?|0
+25759|1|0|0.19130530040712185|67309568|QuickLookUIService|/System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService|0|0|3780608|671744|Runnable|R|501
+538|1|0|0.1255975816812107|44190720|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|1331200|0|Runnable|R|501
+336|0|0|0|0|smd|smd|0|0|0|0|Unknown|?|0
+667|0|0|0|0|com.macpaw.CleanMyMac4.Agent|com.macpaw.CleanMyMac4.Agent|0|0|0|0|Unknown|?|0
+351|0|0|0|0|akd|akd|0|0|0|0|Unknown|?|0
+248|0|0|0|0|com.apple.CodeSigningHelper|com.apple.CodeSigningHelper|0|0|0|0|Unknown|?|0
+13555|1|0|0.09899085959270121|34829312|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+630|1|0|0.04024477718660136|14159872|imklaunchagent|/System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent|0|0|409600|0|Runnable|R|501
+523|1|0|0.08287315811313811|29158400|commerce|/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce|0|0|3952640|26902528|Runnable|R|501
+96|0|0|0|0|remoted|remoted|0|0|0|0|Unknown|?|0
+560|1|0|0.029132934599210274|10250240|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+506|1|0|0.13885437659623598|48855040|SafariBookmarksSyncAgent|/Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent|0|0|2953216|6078701568|Runnable|R|501
+821|1|0|0.0375730455220584|13219840|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+261|0|0|0|0|ViewBridgeAuxiliary|ViewBridgeAuxiliary|0|0|0|0|Unknown|?|0
+26152|1|0|0.03375753330831568|11877376|SandboxedServiceRunner|/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/SandboxedServiceRunner.xpc/Contents/MacOS/SandboxedServiceRunner|0|0|135168|0|Runnable|R|501
+16917|1|0|0.029275543369975638|10300416|IMAutomaticHistoryDeletionAgent|/System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent|0|0|36864|0|Runnable|R|501
+614|1|0|0.020596781034826286|7246848|SidecarRelay|/usr/libexec/SidecarRelay|0|0|258048|0|Runnable|R|501
+435|1|0|0.04820758528484705|16961536|TrustedPeersHelper|/System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper|0|0|3633152|4096|Runnable|R|501
+355|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+1183|1|0|0.010250369196645213|3606528|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+512|1|0|0.08315837565466884|29258752|CalNCService|/System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService|0|0|106496|0|Runnable|R|501
+12321|0|0|0|0|AssetCacheLocatorService|AssetCacheLocatorService|0|0|0|0|Unknown|?|0
+518|1|0|0.05998590559683546|21105664|avconferenced|/usr/libexec/avconferenced|0|0|2121728|16384|Runnable|R|501
+137|0|0|0|0|KernelEventAgent|KernelEventAgent|0|0|0|0|Unknown|?|0
+81|0|0|0|0|UserEventAgent|UserEventAgent|0|0|0|0|Unknown|?|0
+652|0|0|0|0|parentalcontrolsd|parentalcontrolsd|0|0|0|0|Unknown|?|0
+497|0|0|0|0|CVMServer|CVMServer|0|0|0|0|Unknown|?|0
+761|0|0|0|0|ReportCrash|ReportCrash|0|0|0|0|Unknown|?|0
+854|0|0|0|0|memoryanalyticsd|memoryanalyticsd|0|0|0|0|Unknown|?|0
+273|0|0|0|0|containermanagerd|containermanagerd|0|0|0|0|Unknown|?|0
+145|0|0|0|0|cfprefsd|cfprefsd|0|0|0|0|Unknown|?|0
+701|1|0|0.12378441302433679|43552768|appstoreagent|/System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent|0|0|48250880|12939264|Runnable|R|501
+120|0|0|0|0|launchservicesd|launchservicesd|0|0|0|0|Unknown|?|0
+118|0|0|0|0|opendirectoryd|opendirectoryd|0|0|0|0|Unknown|?|0
+36470|575|0|0.14958204861748364|52629504|Code Helper (Renderer)|/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --ms-enable-electron-run-as-node /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork --type=watcherServiceParcelSharedProcess|0|0|8192|0|Runnable|R|501
+740|0|0|0|0|CrashReporterSupportHelper|CrashReporterSupportHelper|0|0|0|0|Unknown|?|0
+658|0|0|0|0|installd|installd|0|0|0|0|Unknown|?|0
+117|0|0|0|0|thermalmonitord|thermalmonitord|0|0|0|0|Unknown|?|0
+27801|1|0|0.0369997000559201|13018112|VTDecoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService|0|0|24576|0|Runnable|R|501
+12472|1|0|0.02608285313467757|9177088|AMPArtworkAgent|/System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd|0|0|4308992|4096|Runnable|R|501
+14914|1|0|0.10885996860627983|38301696|universalAccessAuthWarn|/System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app/Contents/MacOS/universalAccessAuthWarn launchd -s|0|0|299008|147456|Runnable|R|501
+770|0|0|0|0|osanalyticshelper|osanalyticshelper|0|0|0|0|Unknown|?|0
+404|1|0|0.05679030497846055|19981312|secinitd|/usr/libexec/secinitd|0|0|1171456|7589888|Runnable|R|501
+304|0|0.01|0|0|mds_stores|mds_stores|0|0|0|0|Unknown|?|0
+300|0|0|0|0|iconservicesagent|iconservicesagent|0|0|0|0|Unknown|?|0
+639|1|0|0.05998590559683546|21105664|cloudpaird|/System/Library/CoreServices/cloudpaird|0|0|1929216|4096|Runnable|R|501
+403|1|0|0.060128514367600826|21155840|rapportd|/usr/libexec/rapportd|0|0|3457024|466944|Runnable|R|501
+635|1|0|0.07042836007655238|24779776|iStatMenusAgent|/Library/Application Support/iStat Menus 6/iStatMenusAgent.app/Contents/MacOS/iStatMenusAgent|0|0|188416|233472|Runnable|R|501
+388|0|0|0|0|gamecontrollerd|gamecontrollerd|0|0|0|0|Unknown|?|0
+152|0|0|0|0|aslmanager|aslmanager|0|0|0|0|Unknown|?|0
+135|0|0|0|0|logind|logind|0|0|0|0|Unknown|?|0
+110|0|0|0|0|diskarbitrationd|diskarbitrationd|0|0|0|0|Unknown|?|0
+657|1|0|0.026033376622371217|9159680|storedownloadd|/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd|0|0|1134592|0|Runnable|R|501
+27773|1|0|0.40979357875196837|144183296|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|2936832|20480|Runnable|R|501
+13557|1|0|0.010535586738175944|3706880|com.apple.audio.SandboxHelper|/System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper|0|0|0|0|Runnable|R|501
+621|1|0|0.02503220484393682|8807424|ScopedBookmarkAgent|/System/Library/CoreServices/ScopedBookmarkAgent|0|0|299008|57344|Runnable|R|501
+36465|452|0|1.3136363263305442|462194688|Code Helper (Renderer)|/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --disable-color-correct-rendering --field-trial-handle=1718379636,12613057910318958120,7186265368457246828,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WindowCaptureMacV2 --lang=en-US --user-data-dir=/Users/fdncred/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/Applications/Visual Studio Code.app/Contents/Resources/app --no-sandbox --no-zygote --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=20 --no-v8-untrusted-code-mitigations --shared-files --vscode-window-config=vscode:ef5f0ab1-7ce3-4786-b214-54bd4f289110|0|0|237568|0|Runnable|R|501
+28880|1|0|0.0425789044142304|14981120|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+28307|0|0|0|0|nbstated|nbstated|0|0|0|0|Unknown|?|0
+869|1|0|0.21543237611416013|75798528|WeatherWidget|/System/Library/CoreServices/ClimateProxy.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget -AppleLanguages ("en-US")|0|0|11288576|3010560|Runnable|R|501
+18805|1|0|0.017069396745691134|6005760|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|36864|0|Runnable|R|501
+13407|1|0|1.9797298803617187|696555520|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|1044480|1179648|Runnable|R|501
+800|1|0|0.06570771872591112|23118848|SiriNCService|/System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService|0|0|438272|0|Runnable|R|501
+721|1|0|0.039528822949697694|13907968|photoanalysisd|/System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd|0|0|1519616|0|Runnable|R|501
+650|0|0|0|0|deleted_helper|deleted_helper|0|0|0|0|Unknown|?|0
+530|1|0|0.04835019405561242|17011712|triald|/usr/libexec/triald|0|0|4714496|4354048|Runnable|R|501
+423|1|0|0.06360933252750647|22380544|WiFiAgent|/System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent|0|0|258048|0|Runnable|R|501
+475|1|0|0.02331507882859875|8203264|com.apple.hiservices-xpcservice|/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice|0|0|0|0|Runnable|R|501
+411|1|0|0.0812520747393359|28588032|itunescloudd|/System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd|0|0|16314368|6303744|Runnable|R|501
+359|0|0|0|0|adid|adid|0|0|0|0|Unknown|?|0
+267|0|0|0|0|com.apple.AppleUserHIDDrivers|com.apple.AppleUserHIDDrivers|0|0|0|0|Unknown|?|0
+259|0|0|0|0|searchpartyd|searchpartyd|0|0|0|0|Unknown|?|0
+239|0|0|0|0|colorsync.displayservices|colorsync.displayservices|0|0|0|0|Unknown|?|0
+12292|0|0|0|0|containermanagerd|containermanagerd|0|0|0|0|Unknown|?|0
+528|1|0|0.09202922327288991|32379904|translationd|/System/Library/PrivateFrameworks/Translation.framework/translationd|0|0|1396736|237568|Runnable|R|501
+401|1|0|0.009630457601277401|3388416|csnameddatad|/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad|0|0|0|0|Runnable|R|501
+412|1|0|0.04801550000177533|16893952|siriknowledged|/usr/libexec/siriknowledged|0|0|3117056|24576|Runnable|R|501
+498|1|0|0.11591764756762697|40784896|CoreServicesUIAgent|/System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent|0|0|688128|65536|Runnable|R|501
+101|0|0|0|0|iStatMenusFans|iStatMenusFans|0|0|0|0|Unknown|?|0
+13012|1|0|0.08630741014381425|30366720|PAH_Extension|/System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("en-US")|0|0|565248|0|Runnable|R|501
+17346|1|0|0.029132934599210274|10250240|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|65536|0|Runnable|R|501
+1184|1|0|0.010250369196645213|3606528|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+440|1|0|0.026845373500810746|9445376|cdpd|/System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd|0|0|299008|0|Runnable|R|501
+429|1|0|0.17652346475983025|62108672|cloudd|/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd|0|0|2123116544|76247040|Runnable|R|501
+25622|0|0|0|0|package_script_service|package_script_service|0|0|0|0|Unknown|?|0
+540|452|0|0.5536538142403763|194799616|Code Helper (GPU)|/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (GPU).app/Contents/MacOS/Code Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,12613057910318958120,7186265368457246828,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WindowCaptureMacV2 --disable-color-correct-rendering --user-data-dir=/Users/fdncred/Library/Application Support/Code --gpu-preferences=SAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQBAAAAAAAAFAEAAAAAAAAcAEAAC0AAABoAQAAAAAAAHABAAAAAAAAeAEAAAAAAACAAQAAAAAAAIgBAAAAAAAAkAEAAAAAAACYAQAAAAAAAKABAAAAAAAAqAEAAAAAAACwAQAAAAAAALgBAAAAAAAAwAEAAAAAAADIAQAAAAAAANABAAAAAAAA2AEAAAAAAADgAQAAAAAAAOgBAAAAAAAA8AEAAAAAAAD4AQAAAAAAAAACAAAAAAAACAIAAAAAAAAQAgAAAAAAABgCAAAAAAAAIAIAAAAAAAAoAgAAAAAAADACAAAAAAAAOAIAAAAAAABAAgAAAAAAAEgCAAAAAAAAUAIAAAAAAABYAgAAAAAAAGACAAAAAAAAaAIAAAAAAABwAgAAAAAAAHgCAAAAAAAAgAIAAAAAAACIAgAAAAAAAJACAAAAAAAAmAIAAAAAAACgAgAAAAAAAKgCAAAAAAAAsAIAAAAAAAC4AgAAAAAAAMACAAAAAAAAyAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADQAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAABAAAAAgAAABAAAAAAAAAAAQAAAAYAAAAQAAAAAAAAAAEAAAAHAAAAEAAAAAAAAAABAAAACAAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAAAQAAAA4AAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAAAgAAABAAAAAAAAAABAAAAAYAAAAQAAAAAAAAAAQAAAAHAAAAEAAAAAAAAAAEAAAACAAAABAAAAAAAAAABAAAAAoAAAAQAAAAAAAAAAQAAAALAAAAEAAAAAAAAAAEAAAADQAAABAAAAAAAAAABAAAAA4AAAAQAAAAAAAAAAcAAAAAAAAAEAAAAAAAAAAHAAAAAgAAABAAAAAAAAAABwAAAAYAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAoAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADQAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAAAgAAABAAAAAAAAAACgAAAAYAAAAQAAAAAAAAAAoAAAAHAAAAEAAAAAAAAAAKAAAACAAAABAAAAAAAAAACgAAAAoAAAAQAAAAAAAAAAoAAAALAAAAEAAAAAAAAAAKAAAADQAAABAAAAAAAAAACgAAAA4AAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --seatbelt-client=39|0|0|8867840|4390912|Runnable|R|501
+15241|1|0|0.010916846921242531|3841024|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+474|0|0|0|0|automountd|automountd|0|0|0|0|Unknown|?|0
+242|0|0|0|0|mDNSResponder|mDNSResponder|0|0|0|0|Unknown|?|0
+14907|1|0|0.019976869439458474|7028736|XprotectService|/System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService|0|0|81920|0|Runnable|R|501
+687|0|0|0|0|cloudd|cloudd|0|0|0|0|Unknown|?|0
+14945|1|0|0.07920025467016076|27866112|CoreSpotlightService|/System/Library/Frameworks/CoreSpotlight.framework/CoreSpotlightService|0|0|1904640|45199360|Runnable|R|501
+631|1|0|0.07777125657943026|27363328|Siri|/System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd|0|0|458752|0|Runnable|R|501
+7581|0|0|0|0|UARPUpdaterServiceUSBPD|UARPUpdaterServiceUSBPD|0|0|0|0|Unknown|?|0
+119|0|0|0|0|apsd|apsd|0|0|0|0|Unknown|?|0
+414|1|0|0.15272817272355219|53736448|secd|/usr/libexec/secd|0|0|48111616|161079296|Runnable|R|501
+148|0|0.47000000000000003|0|0|WindowServer|WindowServer|0|0|0|0|Unknown|?|0
+684|0|0|0|0|rtcreportingd|rtcreportingd|0|0|0|0|Unknown|?|0
+754|1|0|0.07233466099188533|25450496|contactsdonationagent|/System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent|0|0|249856|0|Runnable|R|501
+517|1|0|0.019025174173330425|6693888|pbs|/System/Library/CoreServices/pbs|0|0|3096576|1044480|Runnable|R|501
+25780|1|0|0.044726767124941405|15736832|com.apple.SafariServices|/System/Library/Frameworks/SafariServices.framework/Versions/A/XPCServices/com.apple.SafariServices.xpc/Contents/MacOS/com.apple.SafariServices|0|0|208896|0|Runnable|R|501
+226|0|0|0|0|secinitd|secinitd|0|0|0|0|Unknown|?|0
+155|0|0|0|0|logd_helper|logd_helper|0|0|0|0|Unknown|?|0
+30779|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+731|1|0|0.11882512026139432|41807872|AMPLibraryAgent|/System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd|0|0|48869376|413696|Runnable|R|501
+654|1|0|0.024936162202400962|8773632|replayd|/usr/libexec/replayd|0|0|675840|0|Runnable|R|501
+37417|1|0|0.05025649497094536|17682432|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|32768|Runnable|R|501
+27813|1|0|0.031612580980681516|11122688|com.apple.CharacterPicker.FileService|/System/Library/PrivateFrameworks/CharacterPicker.framework/Versions/A/XPCServices/com.apple.CharacterPicker.FileService.xpc/Contents/MacOS/com.apple.CharacterPicker.FileService|0|0|180224|0|Runnable|R|501
+15076|1|0|0.05235488116935001|18420736|QuickLookSatellite|/System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite|0|0|1548288|32768|Runnable|R|501
+815|0|0|0|0|dprivacyd|dprivacyd|0|0|0|0|Unknown|?|0
+813|1|0|0.06022164662605984|21188608|adprivacyd|/usr/libexec/adprivacyd|0|0|876544|454656|Runnable|R|501
+669|0|0|0|0|seld|seld|0|0|0|0|Unknown|?|0
+623|1|0|0.14920078843441706|52495360|IMTranscoderAgent|/System/iOSSupport/System/Library/PrivateFrameworks/IMTranscoding.framework/XPCServices/IMTranscoderAgent.xpc/Contents/MacOS/IMTranscoderAgent|0|0|3186688|5586944|Runnable|R|501
+575|452|0|0.7436261591983035|261640192|Code Helper (Renderer)|/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --disable-color-correct-rendering --field-trial-handle=1718379636,12613057910318958120,7186265368457246828,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WindowCaptureMacV2 --lang=en-US --user-data-dir=/Users/fdncred/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/Applications/Visual Studio Code.app/Contents/Resources/app --no-sandbox --no-zygote --node-integration-in-worker --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files --vscode-window-config=vscode:482783b2-16f6-4793-b405-09e92dbb5982 --vscode-window-kind=shared-process|0|0|26296320|118153216|Runnable|R|501
+522|1|0|0.05101901533707853|17950720|ImageIOXPCService|/System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService|0|0|1626112|0|Runnable|R|501
+508|1|0|0.04987523478787877|17548288|iCloudNotificationAgent|/System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent|0|0|1437696|598016|Runnable|R|501
+481|1|0|0.06117625227526473|21524480|useractivityd|/System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd|0|0|917504|0|Runnable|R|501
+33706|1|0|0.7853494109879418|276320256|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|1576960|1130496|Runnable|R|501
+13610|1|0|0.06370537516904233|22414336|OSDUIHelper|/System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper|0|0|167936|0|Runnable|R|501
+132|0|0|0|0|AppleCredentialManagerDaemon|AppleCredentialManagerDaemon|0|0|0|0|Unknown|?|0
+19149|1|0|1.548335438413413|544772096|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|1269760|2834432|Runnable|R|501
+548|1|0|0.04629837398643727|16289792|BlockerSocialExtension|/Applications/AdGuard for Safari.app/Contents/PlugIns/BlockerSocialExtension.appex/Contents/MacOS/BlockerSocialExtension -AppleLanguages ("en-US")|0|0|0|0|Runnable|R|501
+233|0|0|0|0|lsd|lsd|0|0|0|0|Unknown|?|0
+449|1|0|0.09670038811122483|34023424|photolibraryd|/System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd|0|0|100093952|675840|Runnable|R|501
+487|1|0|0.04567846239106946|16071680|CallHistoryPluginHelper|/System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper|0|0|1077248|98304|Runnable|R|501
+881|1|0|0.0319472750345186|11240448|MessagesBlastDoorService|/System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService|0|0|249856|0|Runnable|R|501
+882|1|0|0.034950790369821794|12297216|recentsd|/System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd|0|0|3526656|4096|Runnable|R|501
+674|1|0|0.040529994728132096|14260224|AssetCacheLocatorService|/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a|0|0|307200|28672|Runnable|R|501
+500|1|0|0.12316450142896898|43334656|UIKitSystem|/System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start|0|0|2269184|4096|Runnable|R|501
+466|1|0|0.1608830661048696|56605696|CalendarAgent|/System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent|0|0|13381632|10170368|Runnable|R|501
+622|1|0|0.03547465932365375|12481536|CMFSyncAgent|/System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent|0|0|40960|0|Runnable|R|501
+489|0|0|0|0|oahd|oahd|0|0|0|0|Unknown|?|0
+589|1|0|0.014685793005755747|5167104|mediaremoteagent|/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent|0|0|24576|0|Runnable|R|501
+366|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+109|0|0|0|0|kernelmanagerd|kernelmanagerd|0|0|0|0|Unknown|?|0
+438|1|0|0.06465707043517037|22749184|AppSSOAgent|/System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent|0|0|196608|0|Runnable|R|501
+663|1|0|0.04481989938340042|15769600|Keyword Search Extension|/Applications/Keyword Search.app/Contents/PlugIns/Keyword Search Extension.appex/Contents/MacOS/Keyword Search Extension -AppleLanguages ("en-US")|0|0|4096|0|Runnable|R|501
+18278|1|0|0.11606025633839234|40835072|DockHelper|/System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper|0|0|253952|0|Runnable|R|501
+15240|1|0|0.022171298279398986|7800832|VTDecoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService|0|0|0|16384|Runnable|R|501
+392|1|0|0.05354813823085613|18840576|lsd|/usr/libexec/lsd|0|0|42184704|273526784|Runnable|R|501
+885|1|0|0.1430511489930453|50331648|assistant_service|/System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service|0|0|143069184|4083712|Runnable|R|501
+356|0|0|0|0|suhelperd|suhelperd|0|0|0|0|Unknown|?|0
+146|0|0|0|0|amfid|amfid|0|0|0|0|Unknown|?|0
+107|0|0|0|0|mds|mds|0|0|0|0|Unknown|?|0
+91|0|0|0|0|endpointsecurityd|endpointsecurityd|0|0|0|0|Unknown|?|0
+386|0|0|0|0|corekdld|corekdld|0|0|0|0|Unknown|?|0
+143|0|0|0|0|AirPlayXPCHelper|AirPlayXPCHelper|0|0|0|0|Unknown|?|0
+253|0|0|0|0|backupd|backupd|0|0|0|0|Unknown|?|0
+331|0|0|0|0|sysextd|sysextd|0|0|0|0|Unknown|?|0
+551|452|0|1.4843914118320694|522273792|Code Helper (Renderer)|/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --disable-color-correct-rendering --field-trial-handle=1718379636,12613057910318958120,7186265368457246828,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WindowCaptureMacV2 --lang=en-US --user-data-dir=/Users/fdncred/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/Applications/Visual Studio Code.app/Contents/Resources/app --no-sandbox --no-zygote --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files --vscode-window-config=vscode:34c173ee-70ed-4792-aaff-b1866ca4d2aa|0|0|36556800|811008|Runnable|R|501
+697|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+553|1|0|0.06828049736584138|24024064|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|831488|0|Runnable|R|501
+464|1|0|0.03976747436199892|13991936|ViewBridgeAuxiliary|/System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary|0|0|0|0|Runnable|R|501
+395|1|0|0.15334808431892|53954560|accountsd|/System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd|0|0|14299136|6512640|Runnable|R|501
+811|0|0|0|0|CAReportingService|CAReportingService|0|0|0|0|Unknown|?|0
+469|1|0|0.07553026161026025|26574848|LocationMenu|/System/Library/CoreServices/LocationMenu.app/Contents/MacOS/LocationMenu|0|0|974848|0|Runnable|R|501
+704|1|0|0.04830071754330607|16994304|MusicCacheExtension|/System/Applications/Music.app/Contents/PlugIns/MusicCacheExtension.appex/Contents/MacOS/MusicCacheExtension -AppleLanguages ("en-US")|0|0|409600|0|Runnable|R|501
+37422|1|0|0.06403715883980256|22531072|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|0|Runnable|R|501
+722|1|0|0.06355985601520012|22363136|cloudphotod|cloudphotod|0|0|528314368|143360|Runnable|R|501
+306|0|0|0|0|com.apple.AccountPolicyHelper|com.apple.AccountPolicyHelper|0|0|0|0|Unknown|?|0
+426|1|0|0.03237510134681469|11390976|UsageTrackingAgent|/System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent|0|0|1765376|4096|Runnable|R|501
+406|1|0|0.08201459510546909|28856320|bird|/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird|0|0|15228928|12288|Runnable|R|501
+26181|1|0|0.02112356037173508|7432192|com.apple.audio.SandboxHelper|/System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper|0|0|0|0|Runnable|R|501
+15079|1|0|0.013635144715014999|4797440|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+90|0|0.76|0|0|iStatMenusDaemon|iStatMenusDaemon|0|0|0|0|Unknown|?|0
+128|0|0|0|0|autofsd|autofsd|0|0|0|0|Unknown|?|0
+1|0|0|0|0|launchd|launchd|0|0|0|0|Unknown|?|0
+408|1|0|0.061892206512168396|21776384|networkserviceproxy|/usr/libexec/networkserviceproxy|0|0|5980160|6529024|Runnable|R|501
+456|1|0|0.2339336813336586|82308096|ControlCenter|/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter|0|0|13152256|17178624|Runnable|R|501
+1665|1|0|0.010681105892018152|3758080|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+13554|1|0|0.010870280792013024|3824640|com.apple.audio.SandboxHelper|/System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper|0|0|49152|0|Runnable|R|501
+18829|1|0|0.004956382379865644|1743872|DiskUnmountWatcher|/System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher|0|0|40960|0|Runnable|R|501
+1658|0|0|0|0|appinstalld|appinstalld|0|0|0|0|Unknown|?|0
+7587|0|0|0|0|com.apple.geod|com.apple.geod|0|0|0|0|Unknown|?|0
+988|0|0|0|0|com.apple.audio.SandboxHelper|com.apple.audio.SandboxHelper|0|0|0|0|Unknown|?|0
+26268|1|0|0.044057379017267244|15501312|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+647|1|0|0.07090566290115484|24947712|TextInputSwitcher|/System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher|0|0|73728|0|Runnable|R|501
+141|0|0|0|0|sandboxd|sandboxd|0|0|0|0|Unknown|?|0
+27800|1|0|0.020931475088663366|7364608|com.apple.audio.SandboxHelper|/System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper|0|0|40960|0|Runnable|R|501
+455|1|0|1.1695840055590645|411510784|Dock|/System/Library/CoreServices/Dock.app/Contents/MacOS/Dock|0|0|536317952|303058944|Runnable|R|501
+122|0|0|0|0|usbmuxd|usbmuxd|0|0|0|0|Unknown|?|0
+37516|1|0|0.037477002880522546|13186048|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|0|Runnable|R|501
+590|1|0|0.06828049736584138|24024064|fmfd|/usr/libexec/fmfd|0|0|491520|393216|Runnable|R|501
+720|0|0|0|0|com.apple.AppStoreDaemon.StorePrivilegedTaskService|com.apple.AppStoreDaemon.StorePrivilegedTaskService|0|0|0|0|Unknown|?|0
+121|0|0|0|0|timed|timed|0|0|0|0|Unknown|?|0
+418|1|0|0.07181079203805338|25266176|ContextStoreAgent|/System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent|0|0|22880256|105340928|Runnable|R|501
+16919|0|0|0|0|tzd|tzd|0|0|0|0|Unknown|?|0
+37500|0|0|0|0|mdworker_shared|mdworker_shared|0|0|0|0|Unknown|?|0
+409|1|0|0.25834888496530445|90898432|corespotlightd|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd|0|0|39706624|38133760|Runnable|R|501
+260|0|0|0|0|ZhuGeService|ZhuGeService|0|0|0|0|Unknown|?|0
+24556|1|0|0.05472684337697802|19255296|ExternalQuickLookSatellite-x86_64|/System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/ExternalQuickLookSatellite-x86_64.xpc/Contents/MacOS/ExternalQuickLookSatellite-x86_64|0|0|6856704|0|Runnable|R|501
+12469|1|0|0.13427634401636007|47244288|media-indexer|/System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer|0|0|65404928|43470848|Runnable|R|501
+502|1|0|0.03528548442365888|12414976|AudioComponentRegistrar|/System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar|0|0|0|0|Runnable|R|501
+26019|1|0|0.060949242395270886|21444608|ExternalQuickLookSatellite-x86_64|/System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/ExternalQuickLookSatellite-x86_64.xpc/Contents/MacOS/ExternalQuickLookSatellite-x86_64|0|0|544768|0|Runnable|R|501
+167|0|0|0|0|nehelper|nehelper|0|0|0|0|Unknown|?|0
+93|0|0|0|0|IOMFB_bics_daemon|IOMFB_bics_daemon|0|0|0|0|Unknown|?|0
+633|1|0|0.022171298279398986|7800832|icdd|/System/Library/Image Capture/Support/icdd|0|0|1118208|0|Runnable|R|501
+353|0|0|0|0|WiFiCloudAssetsXPCService|WiFiCloudAssetsXPCService|0|0|0|0|Unknown|?|0
+13542|1|0|0.01845182870719212|6492160|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+13393|1|0|0.03585591950672034|12615680|storeaccountd|/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd|0|0|131072|0|Runnable|R|501
+835|1|0|0.04262838092653675|14998528|CategoriesService|/System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService|0|0|4202496|2314240|Runnable|R|501
+15697|1|0|0.03843160852972744|13521920|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|53248|0|Runnable|R|501
+562|1|0|0.030276715148410037|10652672|VTEncoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService|0|0|8192|0|Runnable|R|501
+333|0|0|0|0|softwareupdated|softwareupdated|0|0|0|0|Unknown|?|0
+437|0|0|0|0|containermanagerd|containermanagerd|0|0|0|0|Unknown|?|0
+37512|1|0|0.037095742697455955|13051904|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|0|Runnable|R|501
+12462|0|0|0|0|sysdiagnose|sysdiagnose|0|0|0|0|Unknown|?|0
+108|0|0|0|0|iconservicesd|iconservicesd|0|0|0|0|Unknown|?|0
+33720|1|0|0.05454931000929052|19192832|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|217088|0|Runnable|R|501
+13540|1|0|0.3545748806350037|124754944|AdGuard for Safari|/Applications/AdGuard for Safari.app/Contents/MacOS/AdGuard for Safari|0|0|5701632|24784896|Runnable|R|501
+83|0|0|0|0|uninstalld|uninstalld|0|0|0|0|Unknown|?|0
+26182|1|0|0.03566674460672546|12549120|com.apple.WebKit.Networking|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking|0|0|4096|8192|Runnable|R|501
+18867|1|0|0.06084155822142765|21406720|ColorSampler|/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ColorSampler.xpc/Contents/MacOS/ColorSampler|0|0|69632|0|Runnable|R|501
+1657|1|0|0.11644151652145893|40969216|PodcastsWidget|/System/Applications/Podcasts.app/Contents/PlugIns/PodcastsWidget.appex/Contents/MacOS/PodcastsWidget -AppleLanguages ("en-US")|0|0|1085440|0|Runnable|R|501
+37514|1|0|0.04019530067429501|14142464|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|0|Runnable|R|501
+819|1|0|0.1816253662935381|63903744|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+7579|0|0|0|0|accessoryd|accessoryd|0|0|0|0|Unknown|?|0
+828|0|0|0|0|online-authd|online-authd|0|0|0|0|Unknown|?|0
+450|1|0|0.06417976761056793|22581248|fileproviderd|/System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd|0|0|2441216|0|Runnable|R|501
+564|0|0|0|0|siriinferenced|siriinferenced|0|0|0|0|Unknown|?|0
+1179|1|0|0.010250369196645213|3606528|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+572|452|0|0.6715272392356426|236272640|Electron|/Applications/Visual Studio Code.app/Contents/MacOS/Electron --ms-enable-electron-run-as-node --inspect-port=0 /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork --type=extensionHost --skipWorkspaceStorageLock|0|0|44412928|4096|Runnable|R|501
+250|0|0|0|0|AudioComponentRegistrar|AudioComponentRegistrar|0|0|0|0|Unknown|?|0
+202|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+554|1|0|0.07281196381648777|25618432|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|3387392|0|Runnable|R|501
+516|1|0|0.11119700621698571|39123968|AdGuardForSafariExtension|/Applications/AdGuard for Safari.app/Contents/PlugIns/AdGuardForSafariExtension.appex/Contents/MacOS/AdGuardForSafariExtension -AppleLanguages ("en-US")|0|0|1200128|20480|Runnable|R|501
+471|1|0|0.02269516723323094|7985152|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+36776|576|0|0.025748159080840487|9059328|fish|/opt/homebrew/bin/fish -l|0|0|204800|212992|Runnable|R|501
+15233|1|0|0.15158439217435243|53334016|com.apple.appkit.xpc.openAndSavePanelService|/System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService|0|0|1093632|0|Runnable|R|501
+164|0|0|0|0|coreaudiod|coreaudiod|0|0|0|0|Unknown|?|0
+482|1|0|0.11911324818600189|41909248|com.apple.dock.extra|/System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra|0|0|1925120|147456|Runnable|R|501
+503|1|0|0.6747228398540175|237396992|com.apple.WebKit.Networking|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking|0|0|280752128|800997376|Runnable|R|501
+837|1|0|0.03914756276663111|13773824|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+571|0|0|0|0|SubmitDiagInfo|SubmitDiagInfo|0|0|0|0|Unknown|?|0
+536|1|0|0.11658412529222428|41019392|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|5697536|0|Runnable|R|501
+501|1|0|0.019310391714861156|6794240|com.apple.accessibility.mediaaccessibilityd|/System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd|0|0|45056|0|Runnable|R|501
+624|1|0|0.05025649497094536|17682432|MessagesBlastDoorService|/System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService|0|0|2854912|0|Runnable|R|501
+655|0|0|0|0|AssetCache|AssetCache|0|0|0|0|Unknown|?|0
+18407|1|0|0.044488115712640185|15652864|com.apple.SafariServices|/System/Library/Frameworks/SafariServices.framework/Versions/A/XPCServices/com.apple.SafariServices.xpc/Contents/MacOS/com.apple.SafariServices|0|0|49152|0|Runnable|R|501
+1660|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+15698|1|0|0.02055021490559678|7230464|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+668|1|0|0.019406434356397013|6828032|BTLEServerAgent|/usr/sbin/BTLEServerAgent|0|0|221184|0|Runnable|R|501
+806|1|0|0.5430192744775877|191057920|AppleSpell|/System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell|0|0|151351296|3293184|Runnable|R|501
+656|0|0|0|0|system_installd|system_installd|0|0|0|0|Unknown|?|0
+467|1|0|0.034234836132918126|12045312|pboard|/usr/libexec/pboard|0|0|24576|0|Runnable|R|501
+16897|1|0|0.01106236607508474|3892224|devicecheckd|/System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd|0|0|311296|0|Runnable|R|501
+613|1|0|0.062081381412163274|21842944|biomesyncd|/usr/libexec/biomesyncd|0|0|22200320|2199552|Runnable|R|501
+535|1|0|0.049686059887883896|17481728|SafariLaunchAgent|/Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariLaunchAgent|0|0|20480|0|Runnable|R|501
+216|0|0|0|0|usbd|usbd|0|0|0|0|Unknown|?|0
+89|0|0|0|0|configd|configd|0|0|0|0|Unknown|?|0
+27409|1|0|0.060891034733734|21424128|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|90112|0|Runnable|R|501
+37515|1|0|0.0634667237567411|22330368|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|0|Runnable|R|501
+405|1|0|0.14986726615901436|52729856|assistantd|/System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd|0|0|33443840|56987648|Runnable|R|501
+568|0|0|0|0|spindump|spindump|0|0|0|0|Unknown|?|0
+561|1|0|0.029656803553042226|10434560|VTEncoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService|0|0|98304|0|Runnable|R|501
+27936|1|0|0.026368070676208298|9277440|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|32768|0|Runnable|R|501
+399|1|0|0.012014061341212788|4227072|APFSUserAgent|/System/Library/CoreServices/APFSUserAgent|0|0|208896|0|Runnable|R|501
+270|0|0|0|0|trustd|trustd|0|0|0|0|Unknown|?|0
+213|0|0|0|0|hidd|hidd|0|0|0|0|Unknown|?|0
+123|0|0|0|0|securityd|securityd|0|0|0|0|Unknown|?|0
+30675|0|0|0|0|PerfPowerServices|PerfPowerServices|0|0|0|0|Unknown|?|0
+13414|1|0|2.0933134007017165|736519168|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|2146304|1200128|Runnable|R|501
+820|1|0|0.04129251509426527|14528512|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+12470|1|0|0.02369633901166534|8337408|PodcastContentService|/System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService|0|0|524288|0|Runnable|R|501
+161|0|0|0|0|backupd-helper|backupd-helper|0|0|0|0|Unknown|?|0
+510|1|0|0.052116229757048785|18336768|familycircled|/System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled|0|0|528384|327680|Runnable|R|501
+335|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+400|1|0|0.033376273125249094|11743232|lockoutagent|/System/Library/CoreServices/lockoutagent|0|0|581632|0|Runnable|R|501
+454|1|0|0.049066148292516085|17263616|talagent|/System/Library/CoreServices/talagent|0|0|385024|274432|Runnable|R|501
+1651|1|0|0.14023680855773696|49341440|WorldClockWidget|/System/Library/CoreServices/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget -AppleLanguages ("en-US")|0|0|548864|0|Runnable|R|501
+1397|1|0|0.03833556588819158|13488128|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+733|1|0|0.05569309055849029|19595264|transparencyd|/usr/libexec/transparencyd|0|0|3817472|466944|Runnable|R|501
+541|1|0|0.03127788692684444|11004928|SafariCloudHistoryPushAgent|/Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariCloudHistoryPushAgent|0|0|16384|0|Runnable|R|501
+12459|1|0|0.014685793005755747|5167104|proactived|/usr/libexec/proactived|0|0|372736|0|Runnable|R|501
+520|1|0|0.3138528006237999|110427136|com.apple.Safari.ContentBlockerLoader|/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.ContentBlockerLoader.xpc/Contents/MacOS/com.apple.Safari.ContentBlockerLoader|0|0|13381632|229052416|Runnable|R|501
+8348|1|0|0.015733530913419655|5535744|localizationswitcherd|/System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd|0|0|32768|0|Runnable|R|501
+13556|1|0|0.039910083132764285|14042112|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+550|1|0|0.04696776209411143|16525312|BlockerOtherExtension|/Applications/AdGuard for Safari.app/Contents/PlugIns/BlockerOtherExtension.appex/Contents/MacOS/BlockerOtherExtension -AppleLanguages ("en-US")|0|0|4096|0|Runnable|R|501
+1176|1|0|0.010727672021247659|3774464|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|4096|0|Runnable|R|501
+376|0|0|0|0|GSSCred|GSSCred|0|0|0|0|Unknown|?|0
+275|0|0|0|0|systemstatusd|systemstatusd|0|0|0|0|Unknown|?|0
+18866|1|0|0.011155498333543753|3924992|loginitemregisterd|/usr/libexec/loginitemregisterd|0|0|32768|0|Runnable|R|501
+14909|1|0|0.011824886441217916|4160512|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|16384|0|Runnable|R|501
+13552|1|0|0.19755098249002948|69507072|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|81920|1540096|Runnable|R|501
+1178|1|0|0.008963979876680085|3153920|com.apple.audio.SandboxHelper|/System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper|0|0|4096|0|Runnable|R|501
+443|1|0|0.05821930306919104|20484096|containermanagerd|/usr/libexec/containermanagerd --runmode=agent --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none|0|0|37097472|688128|Runnable|R|501
+494|1|0|0.04439207307110433|15619072|fontworker|/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker|0|0|1294336|4096|Runnable|R|501
+524|1|0|0.0842555900746391|29644800|passd|/System/Library/PrivateFrameworks/PassKitCore.framework/passd|0|0|4816896|3624960|Runnable|R|501
+363|0|0|0|0|appleh13camerad|appleh13camerad|0|0|0|0|Unknown|?|0
+12475|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+12294|0|0|0|0|mdworker|mdworker|0|0|0|0|Unknown|?|0
+570|1|0|0.013064709631953539|4596736|spindump_agent|/usr/libexec/spindump_agent|0|0|65536|0|Runnable|R|501
+18700|1|0|0.0786763857163288|27681792|UserNotificationCenter|/System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter|0|0|503808|196608|Runnable|R|501
+14915|1|0|0.013684621227321348|4814848|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|16384|0|Runnable|R|501
+383|1|0|0.0421510781019343|14830592|distnoted|/usr/sbin/distnoted agent|0|0|0|0|Runnable|R|501
+265|0|0|0|0|bootinstalld|bootinstalld|0|0|0|0|Unknown|?|0
+103|0|0|0|0|watchdogd|watchdogd|0|0|0|0|Unknown|?|0
+254|0|0|0|0|BlueTool|BlueTool|0|0|0|0|Unknown|?|0
+387|1|0|0.05063775515401194|17816576|UserEventAgent|/usr/libexec/UserEventAgent (Aqua)|0|0|389120|0|Runnable|R|501
+1659|0|0|0|0|com.apple.MobileInstallationHelperService|com.apple.MobileInstallationHelperService|0|0|0|0|Unknown|?|0
+565|1|0|0.017785350982594803|6257664|WiFiVelocityAgent|/usr/libexec/WiFiVelocityAgent|0|0|102400|0|Runnable|R|501
+317|0|0|0|0|systemsoundserverd|systemsoundserverd|0|0|0|0|Unknown|?|0
+166|0|0|0|0|findmydeviced|findmydeviced|0|0|0|0|Unknown|?|0
+13544|1|0|0.014161924051923794|4982784|VTEncoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService|0|0|0|0|Runnable|R|501
+18280|417|0|0.05259353258165123|18504704|fish|/opt/homebrew/bin/fish --login|0|0|1617920|897024|Runnable|R|501
+129|0|0|0|0|dasd|dasd|0|0|0|0|Unknown|?|0
+488|1|0|0.05082984043708366|17884160|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+823|1|0|0.06122572878757108|21541888|com.apple.speech.speechsynthesisd|/System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd|0|0|3518464|0|Runnable|R|501
+18649|1|0|0.06275076951983743|22078464|Userscripts Extension|/Applications/Userscripts.app/Contents/PlugIns/Userscripts Extension.appex/Contents/MacOS/Userscripts Extension -AppleLanguages ("en-US")|0|0|184320|4096|Runnable|R|501
+504|1|0|0.09765499376042971|34359296|imagent|/System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent|0|0|4120576|655360|Runnable|R|501
+18769|0|0|0|0|MTLCompilerService|MTLCompilerService|0|0|0|0|Unknown|?|0
+625|1|0|0.04677567681103971|16457728|corespeechd|/System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd|0|0|1798144|0|Runnable|R|501
+422|1|0|0.08177594369316786|28772352|trustd|/usr/libexec/trustd --agent|0|0|21389312|3915776|Runnable|R|501
+243|0|0|0|0|containermanagerd|containermanagerd|0|0|0|0|Unknown|?|0
+168|0|0|0|0|symptomsd|symptomsd|0|0|0|0|Unknown|?|0
+7580|0|0|0|0|fud|fud|0|0|0|0|Unknown|?|0
+477|1|0|0.12659875345964514|44542976|iconservicesagent|/System/Library/CoreServices/iconservicesagent|0|0|60665856|1179648|Runnable|R|501
+421|1|0|0.2937769781597287|103363584|NotificationCenter|/System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter|0|0|19730432|76513280|Runnable|R|501
+365|0|0|0|0|wifianalyticsd|wifianalyticsd|0|0|0|0|Unknown|?|0
+264|0|0|0|0|secinitd|secinitd|0|0|0|0|Unknown|?|0
+13448|1|0|0.08645001891457961|30416896|IMTranscoderAgent|/System/Library/PrivateFrameworks/IMTranscoding.framework/XPCServices/IMTranscoderAgent.xpc/Contents/MacOS/IMTranscoderAgent|0|0|139264|2121728|Runnable|R|501
+147|0|0.27999999999999997|0|0|syspolicyd|syspolicyd|0|0|0|0|Unknown|?|0
+35167|1|0|0.08687784522687571|30567424|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|1540096|0|Runnable|R|501
+368|0|0|0|0|secinitd|secinitd|0|0|0|0|Unknown|?|0
+470|1|0|0.03418827000368862|12028928|VTDecoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService|0|0|0|32768|Runnable|R|501
+952|1|0|0.21595915545106892|75983872|mediaanalysisd|/System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd|0|0|136478720|0|Runnable|R|501
+18715|1|0|0.00648433349520884|2281472|PlugInLibraryService|/System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService|0|0|28672|0|Runnable|R|501
+682|0|0|0|0|AssetCacheTetheratorService|AssetCacheTetheratorService|0|0|0|0|Unknown|?|0
+7588|1|0|0.0476837163310151|16777216|mapspushd|/System/Library/CoreServices/mapspushd|0|0|2527232|77824|Runnable|R|501
+37519|1|0|0.03733439410975718|13135872|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|0|Runnable|R|501
+664|1|0|0.14457618972531164|50868224|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|73728|0|Runnable|R|501
+13346|1|0|0.12287928388743825|43234304|searchpartyuseragent|/usr/libexec/searchpartyuseragent|0|0|14647296|18702336|Runnable|R|501
+626|1|0|1.0050629606081396|353625088|CleanMyMac X HealthMonitor|com.macpaw.CleanMyMac4.HealthMonitor|0|0|246452224|1163264|Runnable|R|501
+525|1|0|0.1289823571995805|45381632|sharingd|/usr/libexec/sharingd|0|0|6070272|6692864|Runnable|R|501
+27802|1|0|0.03332970699601959|11726848|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|266240|0|Runnable|R|501
+699|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+419|1|0|0.10976509774317837|38620160|identityservicesd|/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd|0|0|13819904|14528512|Runnable|R|501
+461|1|0|0.039004953995865746|13723648|com.apple.siri.embeddedspeech|/System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech|0|0|2129920|0|Runnable|R|501
+822|1|0|0.019310391714861156|6794240|com.apple.audio.SandboxHelper|/System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper|0|0|8192|0|Runnable|R|501
+698|1|0|0.21767337108333015|76587008|ReportCrash|/System/Library/CoreServices/ReportCrash agent|0|0|23756800|57344|Runnable|R|501
+269|0|0|0|0|cfprefsd|cfprefsd|0|0|0|0|Unknown|?|0
+738|1|0|0.030183582889951023|10619904|IDSBlastDoorService|/System/Library/PrivateFrameworks/IDSBlastDoorSupport.framework/Versions/A/XPCServices/IDSBlastDoorService.xpc/Contents/MacOS/IDSBlastDoorService|0|0|176128|0|Runnable|R|501
+646|1|0|0.02188608073786826|7700480|ctkahp|/System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp|0|0|0|0|Runnable|R|501
+360|0|0|0|0|com.apple.MobileSoftwareUpdate.CleanupPreparePathService|com.apple.MobileSoftwareUpdate.CleanupPreparePathService|0|0|0|0|Unknown|?|0
+13629|1|0|0.06637419645050845|23353344|LookupViewService|/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService|0|0|417792|0|Runnable|R|501
+13449|1|0|0.07724738762559831|27179008|MessagesBlastDoorService|/System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService|0|0|184320|0|Runnable|R|501
+13404|1|0|0.03390305246215789|11928576|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+1647|1|0|0.04272442356807261|15032320|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+402|1|0|0.08291972424236763|29174784|routined|/usr/libexec/routined LAUNCHED_BY_LAUNCHD|0|0|20295680|5844992|Runnable|R|501
+18804|1|0|0.09174109534828234|32278528|AKAuthorizationRemoteViewService|/System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/XPCServices/AKAuthorizationRemoteViewService.xpc/Contents/MacOS/AKAuthorizationRemoteViewService|0|0|1187840|294912|Runnable|R|501
+893|1|0|0.008009374227475193|2818048|com.apple.tonelibraryd|/System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd|0|0|36864|0|Runnable|R|501
+557|1|0|0.03590539601902669|12633088|VTDecoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService|0|0|430080|32768|Runnable|R|501
+12463|1|0|0.04305620723883285|15149056|MailCacheDelete|/System/Applications/Mail.app/Contents/PlugIns/MailCacheDelete.appex/Contents/MacOS/MailCacheDelete -AppleLanguages ("en-US")|0|0|1576960|0|Runnable|R|501
+752|1|0|0.041435123865030635|14578688|progressd|/System/Library/Frameworks/ClassKit.framework/Versions/A/progressd|0|0|2576384|2547712|Runnable|R|501
+30715|417|0|0.037954305705124994|13353984|fish|/opt/homebrew/bin/fish --login|0|0|1191936|835584|Runnable|R|501
+13426|1|0|0.08234928915930616|28974080|gamed|/System/Library/PrivateFrameworks/GameCenterFoundation.framework/Versions/A/gamed|0|0|7344128|356352|Runnable|R|501
+12322|0|0|0|0|com.apple.StreamingUnzipService|com.apple.StreamingUnzipService|0|0|0|0|Unknown|?|0
+12290|0|0|0|0|trustd|trustd|0|0|0|0|Unknown|?|0
+545|1|0|0.04749163104794338|16709632|BlockerSecurityExtension|/Applications/AdGuard for Safari.app/Contents/PlugIns/BlockerSecurityExtension.appex/Contents/MacOS/BlockerSecurityExtension -AppleLanguages ("en-US")|0|0|0|0|Runnable|R|501
+19158|1|0|0.011251540975079612|3958784|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+12471|1|0|0.02302986128706802|8102912|com.apple.BKAgentService|/System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService|0|0|733184|4096|Runnable|R|501
+337|0|0|0|0|UVCAssistant|UVCAssistant|0|0|0|0|Unknown|?|0
+2395|1|0|0.011251540975079612|3958784|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+156|0|0|0|0|contextstored|contextstored|0|0|0|0|Unknown|?|0
+1181|1|0|0.017735874470288453|6240256|VTEncoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService|0|0|4096|16384|Runnable|R|501
+702|1|0|0.0588886911768652|20719616|CacheDeleteExtension|/Applications/Safari.app/Contents/PlugIns/CacheDeleteExtension.appex/Contents/MacOS/CacheDeleteExtension -AppleLanguages ("en-US")|0|0|262144|0|Runnable|R|501
+33721|1|0|0.03995664926199379|14058496|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|204800|0|Runnable|R|501
+848|1|0|0.08740171418070766|30751744|coreautha|/System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha|0|0|1200128|163840|Runnable|R|501
+13413|1|0|0.20232110035297707|71185408|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+758|1|0|0.12483506131507754|43922432|avatarsd|/System/Library/PrivateFrameworks/AvatarPersistence.framework/Support/avatarsd|0|0|1773568|4096|Runnable|R|501
+483|1|0|0.07848721081633393|27615232|com.apple.quicklook.ThumbnailsAgent|/System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent|0|0|12476416|8175616|Runnable|R|501
+507|1|0|0.06093760086296351|21440512|CoreLocationAgent|/System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent|0|0|69632|0|Runnable|R|501
+144|0|0|0|0|com.apple.cmio.registerassistantservice|com.apple.cmio.registerassistantservice|0|0|0|0|Unknown|?|0
+98|0|0|0|0|keybagd|keybagd|0|0|0|0|Unknown|?|0
+476|1|0|0.031135278156079072|10954752|AMPDeviceDiscoveryAgent|/System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd|0|0|901120|0|Runnable|R|501
+511|1|0|0.021373853316343682|7520256|CarbonComponentScannerXPC|/System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC|0|0|16113664|0|Runnable|R|501
+240|0|0|0|0|awdd|awdd|0|0|0|0|Unknown|?|0
+26169|1|0|0.007674680173638111|2700288|PlugInLibraryService|/System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService|0|0|32768|0|Runnable|R|501
+15234|1|0|0.08849892860067791|31137792|QuickLookUIService|/System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService|0|0|36864|16384|Runnable|R|501
+642|1|0|0.08840288595914206|31104000|TextInputMenuAgent|/System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent|0|0|286720|0|Runnable|R|501
+334|0|0|0|0|symptomsd-diag|symptomsd-diag|0|0|0|0|Unknown|?|0
+165|0|0|0|0|runningboardd|runningboardd|0|0|0|0|Unknown|?|0
+453|1|0|0.7483468005489449|263301120|Messages|/System/Applications/Messages.app/Contents/MacOS/Messages|0|0|99876864|9371648|Runnable|R|501
+396|1|0|0.1487234856098146|52327424|knowledge-agent|/usr/libexec/knowledge-agent|0|0|294264832|183689216|Runnable|R|501
+433|1|0|0.05459587613852003|19209216|akd|/System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd|0|0|1368064|266240|Runnable|R|501
+432|1|0|0.10719231910324811|37714944|callservicesd|/System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd|0|0|4423680|249856|Runnable|R|501
+8347|0|0|0|0|UARPUpdaterServiceHID|UARPUpdaterServiceHID|0|0|0|0|Unknown|?|0
+559|1|0|0.029036891957674414|10216448|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+12325|0|0|0|0|periodic-wrapper|periodic-wrapper|0|0|0|0|Unknown|?|0
+683|0|0|0|0|fairplayd|fairplayd|0|0|0|0|Unknown|?|0
+473|1|0|0.0405765608573616|14276608|coreauthd|/System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd|0|0|393216|0|Runnable|R|501
+136|0|0|0|0|revisiond|revisiond|0|0|0|0|Unknown|?|0
+13417|1|0|0.061033643504499364|21474304|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|61440|0|Runnable|R|501
+638|1|0|0.05011388620017999|17632256|AirPlayUIAgent|/System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd|0|0|188416|0|Runnable|R|501
+576|575|0|0.24614273834101993|86603776|Code Helper (Renderer)|/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --ms-enable-electron-run-as-node /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork --type=ptyHost|0|0|3940352|0|Runnable|R|501
+566|0|0.48|0|0|XprotectService|XprotectService|0|0|0|0|Unknown|?|0
+18802|1|0|0.08601928221920668|30265344|AKAppSSOExtension_macOS|/System/Library/PrivateFrameworks/AuthKitUI.framework/PlugIns/AKAppSSOExtension_macOS.appex/Contents/MacOS/AKAppSSOExtension_macOS -AppleLanguages ("en-US")|0|0|507904|0|Runnable|R|501
+85|0|0|0|0|mediaremoted|mediaremoted|0|0|0|0|Unknown|?|0
+636|1|0|0.032709795400651775|11508736|askpermissiond|/System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond|0|0|593920|380928|Runnable|R|501
+274|0|0|0|0|nsurlsessiond|nsurlsessiond|0|0|0|0|Unknown|?|0
+80|0|0.04|0|0|logd|logd|0|0|0|0|Unknown|?|0
+730|1|0|0.04343746742189943|15283200|promotedcontentd|/usr/libexec/promotedcontentd|0|0|3547136|102400|Runnable|R|501
+446|0|0|0|0|captiveagent|captiveagent|0|0|0|0|Unknown|?|0
+18486|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+17209|1|0|0.8908740805881582|313448448|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|917504|311296|Runnable|R|501
+673|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+158|0|0|0|0|PowerUIAgent|PowerUIAgent|0|0|0|0|Unknown|?|0
+157|0|0.03|0|0|trustd|trustd|0|0|0|0|Unknown|?|0
+225|0|0|0|0|mobileassetd|mobileassetd|0|0|0|0|Unknown|?|0
+343|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+448|0|0|0|0|filecoordinationd|filecoordinationd|0|0|0|0|Unknown|?|0
+398|1|0|0.09155192044828747|32211968|CommCenter|/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L|0|0|17309696|57344|Runnable|R|501
+13344|1|0|0.009869109013578625|3472384|metrickitd|/usr/libexec/metrickitd|0|0|229376|0|Runnable|R|501
+441|1|0|0.030754017973012485|10820608|ProtectedCloudKeySyncing|/System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing|0|0|1286144|8192|Runnable|R|501
+427|1|0|0.034045661232923255|11978752|diagnosticextensionsd|/usr/libexec/diagnosticextensionsd|0|0|372736|0|Runnable|R|501
+747|1|0|0.10118237804956487|35600384|studentd|/usr/libexec/studentd|0|0|892928|81920|Runnable|R|501
+606|1|0|0.06947375442734749|24443904|nsurlsessiond|/usr/libexec/nsurlsessiond|0|0|602112|47370240|Runnable|R|501
+33649|0|0|0|0|applessdstatistics|applessdstatistics|0|0|0|0|Unknown|?|0
+430|1|0|0.020311563493295555|7146496|BiomeAgent|/System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent|0|0|2580480|0|Runnable|R|501
+262|0|0|0|0|com.apple.geod|com.apple.geod|0|0|0|0|Unknown|?|0
+666|1|0|0.03056484307301761|10754048|mdbulkimport|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport|0|0|37539840|0|Runnable|R|501
+818|1|0|0.3855704604033942|135660544|com.apple.WebKit.GPU|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU|0|0|12337152|7950336|Runnable|R|501
+7946|1|0|0.041577732635796|14628864|ndoagent|/System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent|0|0|311296|245760|Runnable|R|501
+19157|1|0|0.05397596454315222|18991104|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|86016|0|Runnable|R|501
+16901|1|0|0.03089662674377785|10870784|EscrowSecurityAlert|/System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert|0|0|45056|0|Runnable|R|501
+492|1|0|0.02412707570703828|8488960|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+215|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+159|1|0|0.6912218015166471|243202048|loginwindow|/System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console|0|0|24276992|3260416|Runnable|R|501
+485|1|0|0.0513071432616861|18052096|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|24576|0|Runnable|R|501
+484|1|0|0.04994799436479987|17573888|com.apple.dock.external.extra.x86_64|/System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.external.extra.x86_64.xpc/Contents/MacOS/com.apple.dock.external.extra.x86_64|0|0|301940736|0|Runnable|R|501
+659|1|0|0.01926382558563165|6777856|geodMachServiceBridge|/System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge|0|0|577536|0|Runnable|R|501
+263|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+1033|0|0|0|0|misagent|misagent|0|0|0|0|Unknown|?|0
+322|0|0|0|0|ctkd|ctkd|0|0|0|0|Unknown|?|0
+18487|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+425|1|0|0.10971853161394886|38603776|homed|/System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed|0|0|21041152|1232896|Runnable|R|501
+878|0|0|0|0|lskdd|lskdd|0|0|0|0|Unknown|?|0
+1173|0|0|0|0|ASPCarryLog|ASPCarryLog|0|0|0|0|Unknown|?|0
+527|1|0|0.04849280282637778|17061888|AdGuardForSafariBlockerExtension|/Applications/AdGuard for Safari.app/Contents/PlugIns/AdGuardForSafariBlockerExtension.appex/Contents/MacOS/AdGuardForSafariBlockerExtension -AppleLanguages ("en-US")|0|0|8192|0|Runnable|R|501
+537|417|0|0.24485343863797798|86150144|Tabby Helper (GPU)|/Applications/Tabby.app/Contents/Frameworks/Tabby Helper (GPU).app/Contents/MacOS/Tabby Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,16724957851166484795,15102933995014733927,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WindowCaptureMacV2 --gpu-preferences=SAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYAwAAAAAAANgDAAAAAAAASAEAACgAAABAAQAAAAAAAEgBAAAAAAAAUAEAAAAAAABYAQAAAAAAAGABAAAAAAAAaAEAAAAAAABwAQAAAAAAAHgBAAAAAAAAgAEAAAAAAACIAQAAAAAAAJABAAAAAAAAmAEAAAAAAACgAQAAAAAAAKgBAAAAAAAAsAEAAAAAAAC4AQAAAAAAAMABAAAAAAAAyAEAAAAAAADQAQAAAAAAANgBAAAAAAAA4AEAAAAAAADoAQAAAAAAAPABAAAAAAAA+AEAAAAAAAAAAgAAAAAAAAgCAAAAAAAAEAIAAAAAAAAYAgAAAAAAACACAAAAAAAAKAIAAAAAAAAwAgAAAAAAADgCAAAAAAAAQAIAAAAAAABIAgAAAAAAAFACAAAAAAAAWAIAAAAAAABgAgAAAAAAAGgCAAAAAAAAcAIAAAAAAAB4AgAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAAAAAAABwAAABAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAYAAAAQAAAAAAAAAAEAAAAHAAAAEAAAAAAAAAABAAAACAAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAAAQAAAA4AAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACgAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABwAAAAAAAAAQAAAAAAAAAAcAAAAGAAAAEAAAAAAAAAAHAAAABwAAABAAAAAAAAAABwAAAAgAAAAQAAAAAAAAAAcAAAAKAAAAEAAAAAAAAAAHAAAACwAAABAAAAAAAAAABwAAAA0AAAAQAAAAAAAAAAcAAAAOAAAAEAAAAAAAAAAKAAAAAAAAABAAAAAAAAAACgAAAAYAAAAQAAAAAAAAAAoAAAAHAAAAEAAAAAAAAAAKAAAACAAAABAAAAAAAAAACgAAAAoAAAAQAAAAAAAAAAoAAAALAAAAEAAAAAAAAAAKAAAADQAAABAAAAAAAAAACgAAAA4AAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --seatbelt-client=41|0|0|5550080|3080192|Runnable|R|501
+25758|1|0|0.941607878383706|331298816|Finder|/System/Library/CoreServices/Finder.app/Contents/MacOS/Finder|0|0|15892480|425984|Runnable|R|501
+26180|1|0|0.026414636805437805|9293824|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+26176|1|0|0.12532400567198737|44094464|QLPlugin|/Applications/Glance.app/Contents/PlugIns/QLPlugin.appex/Contents/MacOS/QLPlugin -AppleLanguages ("en-US")|0|0|23986176|90112|Runnable|R|501
+719|0|0|0|0|installcoordinationd|installcoordinationd|0|0|0|0|Unknown|?|0
+700|1|0|0.11959055101060433|42077184|amsengagementd|/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd|0|0|5857280|382599168|Runnable|R|501
+660|0|0|0|0|coresymbolicationd|coresymbolicationd|0|0|0|0|Unknown|?|0
+13543|1|0|0.022887252516302657|8052736|VTDecoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService|0|0|81920|0|Runnable|R|501
+532|1|0|0.024173641836267787|8505344|PasswordBreachAgent|/Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/PasswordBreachAgent|0|0|49152|19841024|Runnable|R|501
+372|0|0|0|0|trustd|trustd|0|0|0|0|Unknown|?|0
+847|0|0|0|0|VTDecoderXPCService|VTDecoderXPCService|0|0|0|0|Unknown|?|0
+361|0|0|0|0|sysmond|sysmond|0|0|0|0|Unknown|?|0
+209|0|0|0|0|airportd|airportd|0|0|0|0|Unknown|?|0
+84|0|0|0|0|fseventsd|fseventsd|0|0|0|0|Unknown|?|0
+37423|1|0|0.05020992884171585|17666048|mdworker_shared|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared|0|0|0|0|Runnable|R|501
+18768|0|0|0|0|MTLCompilerService|MTLCompilerService|0|0|0|0|Unknown|?|0
+92|0|0.01|0|0|powerd|powerd|0|0|0|0|Unknown|?|0
+13545|1|0|0.04720641350641265|16609280|com.apple.SafariServices.ExtensionHelper|/System/Library/Frameworks/SafariServices.framework/Versions/A/XPCServices/com.apple.SafariServices.ExtensionHelper.xpc/Contents/MacOS/com.apple.SafariServices.ExtensionHelper|0|0|77824|24576|Runnable|R|501
+580|1|0|0.052546966452421726|18488320|StatusKitAgent|/System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent|0|0|6807552|720896|Runnable|R|501
+644|1|0|0.04939793196327632|17380352|amsaccountsd|/System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd|0|0|1810432|303104|Runnable|R|501
+338|0|0|0|0|nfcd|nfcd|0|0|0|0|Unknown|?|0
+36508|36475|0|0.07982016626552857|28084224|rust-analyzer|/Users/fdncred/.vscode/extensions/matklad.rust-analyzer-0.3.884/server/rust-analyzer proc-macro|0|0|20418560|0|Runnable|R|501
+416|1|0|0.0846834163869352|29795328|tccd|/System/Library/PrivateFrameworks/TCC.framework/Resources/tccd|0|0|6565888|0|Runnable|R|501
+1182|1|0|0.01602165883802723|5637120|VTDecoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService|0|0|0|32768|Runnable|R|501
+415|1|0|0.1651264046309084|58098688|ScreenTimeAgent|/System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent|0|0|58859520|18362368|Runnable|R|501
+13401|1|0|2.728175633935276|959891456|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|2531328|1130496|Runnable|R|501
+1498|0|0|0|0|wifip2pd|wifip2pd|0|0|0|0|Unknown|?|0
+736|1|0|0.022267340920934846|7834624|ContainerMetadataExtractor|/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor|0|0|159744|0|Runnable|R|501
+480|1|0|0.08020142644859515|28218368|com.apple.Safari.History|/System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History|0|0|20205568|13393920|Runnable|R|501
+220|0|0|0|0|biometrickitd|biometrickitd|0|0|0|0|Unknown|?|0
+807|1|0|0.033137621712947866|11659264|keyboardservicesd|/usr/libexec/keyboardservicesd|0|0|729088|40960|Runnable|R|501
+1250|0|0|0|0|netbiosd|netbiosd|0|0|0|0|Unknown|?|0
+769|1|0|0.020692823676362142|7280640|mdwrite|/System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite|0|0|241664|98304|Runnable|R|501
+499|1|0|0.01892913153179457|6660096|chrome_crashpad_handler|/Applications/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/fdncred/Library/Application Support/Code/Crashpad --metrics-dir=/Users/fdncred/Library/Application Support/Code --url=appcenter://code?aid=de75e3cc-e22f-4f42-a03f-1409c21d8af8&uid=55adbad8-4692-42fc-98ec-74c57c08a3b1&iid=55adbad8-4692-42fc-98ec-74c57c08a3b1&sid=55adbad8-4692-42fc-98ec-74c57c08a3b1 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.63.2 --annotation=prod=Electron --annotation=ver=13.5.2 --handshake-fd=27|0|0|991232|0|Runnable|R|501
+641|1|0|0.028847717057679544|10149888|diagnostics_agent|/System/Library/CoreServices/diagnostics_agent|0|0|647168|2662400|Runnable|R|501
+705|1|0|0.04782632510178046|16827392|TVCacheExtension|/System/Applications/TV.app/Contents/PlugIns/TVCacheExtension.appex/Contents/MacOS/TVCacheExtension -AppleLanguages ("en-US")|0|0|614400|0|Runnable|R|501
+18678|1|0|0.02150482055480167|7566336|cfprefsd|/usr/sbin/cfprefsd agent|0|0|3878912|17674240|Runnable|R|501
+434|1|0|0.10885996860627983|38301696|syncdefaultsd|/System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd|0|0|51429376|39043072|Runnable|R|501
+246|0|0|0|0|diskmanagementd|diskmanagementd|0|0|0|0|Unknown|?|0
+413|1|0|0.046205241727978255|16257024|dmd|/usr/libexec/dmd|0|0|5861376|8192|Runnable|R|501
+27407|1|0|0.7698516211037465|270867456|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|712704|540672|Runnable|R|501
+15078|1|0|0.026891939630040253|9461760|VTDecoderXPCService|/System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService|0|0|12288|32768|Runnable|R|501
+7582|1|0|0.06255868423676572|22010880|PowerChime|/System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime|0|0|458752|0|Runnable|R|501
+662|1|0|3.1040166837127803|1092128768|com.apple.WebKit.WebContent|/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent|0|0|14028800|3153920|Runnable|R|501
+27799|1|0|0.19006547721638622|66873344|QuickLookUIService|/System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService|0|0|18591744|0|Runnable|R|501
+12289|0|0|0|0|mdbulkimport|mdbulkimport|0|0|0|0|Unknown|?|0
+445|1|0|0.028466456874612956|10015744|CloudKeychainProxy|/System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy|0|0|2289664|831488|Runnable|R|501
+258|0|0|0|0|appleeventsd|appleeventsd|0|0|0|0|Unknown|?|0
+30780|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+37532|36776|0|0.03323366435448373|11693056|ps_btm|target/debug/ps_btm|0|0|0|0|Runnable|R|501
+534|1|0|0.022028689508633622|7750656|com.apple.audio.SandboxHelper|/System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper|0|0|0|0|Runnable|R|501
+36710|36466|0|0.6487360293608758|228253696|Electron|/Applications/Visual Studio Code.app/Contents/MacOS/Electron --ms-enable-electron-run-as-node /Users/fdncred/.vscode/extensions/tamasfe.even-better-toml-0.14.2/dist/server.js --node-ipc --clientProcessId=36466|0|0|602112|8192|Runnable|R|501
+836|1|0|0.045823981544911664|16122880|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+462|1|0|0.02727319981310684|9595904|ctkd|/System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw|0|0|0|0|Runnable|R|501
+15239|1|0|0.01044245447971693|3674112|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+544|417|0|0.113152783644625|39812096|Tabby Helper|/Applications/Tabby.app/Contents/Frameworks/Tabby Helper.app/Contents/MacOS/Tabby Helper --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1718379636,16724957851166484795,15102933995014733927,131072 --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess,WindowCaptureMacV2 --lang=EN --service-sandbox-type=network --shared-files --seatbelt-client=41|0|0|2813952|45056|Runnable|R|501
+521|1|0|0.030372757789945897|10686464|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+519|1|0|0.26755151625428575|94136320|Dark Reader|/Applications/Dark Reader for Safari.app/Contents/PlugIns/Dark Reader.appex/Contents/MacOS/Dark Reader -AppleLanguages ("en-US")|0|0|30404608|682975232|Runnable|R|501
+17986|0|0|0|0|com.apple.AmbientDisplayAgent|com.apple.AmbientDisplayAgent|0|0|0|0|Unknown|?|0
+28877|1|0|0.2223008801755124|78215168|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|3145728|0|Runnable|R|501
+13405|1|0|0.02732267632541319|9613312|MTLCompilerService|/System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService|0|0|0|0|Runnable|R|501
+139|0|0.06|0|0|bluetoothd|bluetoothd|0|0|0|0|Unknown|?|0
+765|1|0|0.062320032824464494|21926912|com.apple.CloudPhotosConfiguration|/System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration|0|0|83730432|57344|Runnable|R|501
+543|1|0|0.10085059437880463|35483648|com.apple.Safari.SafeBrowsing.Service|/System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service|0|0|131072|98086912|Runnable|R|501
+665|1|0|0.04424946430033896|15568896|com.apple.Safari.SearchHelper|/System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper|0|0|45056|16384|Runnable|R|501
+341|0|0|0|0|MTLCompilerService|MTLCompilerService|0|0|0|0|Unknown|?|0
+36466|452|0|0.8302187868836486|292107264|Electron|/Applications/Visual Studio Code.app/Contents/MacOS/Electron --ms-enable-electron-run-as-node --inspect-port=0 /Applications/Visual Studio Code.app/Contents/Resources/app/out/bootstrap-fork --type=extensionHost --skipWorkspaceStorageLock|0|0|167936|0|Runnable|R|501
+13538|1|0|0.012922100861188173|4546560|colorsync.useragent|/System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent|0|0|262144|24576|Runnable|R|501
+13546|13540|0|0.05759939147382323|20265984|AdGuard for Safari Helper|/Applications/AdGuard for Safari.app/Contents/Frameworks/AdGuard for Safari Helper.app/Contents/MacOS/AdGuard for Safari Helper --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1718379636,7674647840753062123,5003114853972252846,131072 --enable-features=WebComponentsV0Enabled --disable-features=CookiesWithoutSameSiteMustBeSecure,SameSiteByDefaultCookies,SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --shared-files --seatbelt-client=35|0|0|0|0|Runnable|R|501
+672|1|0|0.04481989938340042|15769600|neagent|/usr/libexec/neagent|0|0|176128|0|Runnable|R|501
+420|1|0|0.03933673766662598|13840384|sharedfilelistd|/System/Library/CoreServices/sharedfilelistd|0|0|585728|987136|Runnable|R|501
+816|1|0|0.02040760613483141|7180288|proactiveeventtrackerd|/usr/libexec/proactiveeventtrackerd|0|0|671744|16384|Runnable|R|501
+33441|1|0|0.0957952589743263|33704960|remindd|/usr/libexec/remindd|0|0|13180928|380928|Runnable|R|501
+394|1|0|0.0674714108704787|23739392|usernoted|/usr/sbin/usernoted|0|0|4292608|8192|Runnable|R|501
+825|1|0|0.041816384048097226|14712832|reversetemplated|/System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated|0|0|589824|0|Runnable|R|501
+514|1|0|0.30727242448705516|108111872|AdvancedBlocking|/Applications/AdGuard for Safari.app/Contents/PlugIns/AdvancedBlocking.appex/Contents/MacOS/AdvancedBlocking -AppleLanguages ("en-US")|0|0|5795840|0|Runnable|R|501
+277|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+410|1|0|0.05769543411535909|20299776|swcd|/usr/libexec/swcd|0|0|7909376|1056768|Runnable|R|501
+238|0|0|0|0|biokitaggdd|biokitaggdd|0|0|0|0|Unknown|?|0
+208|0|0|0|0|apfsd|apfsd|0|0|0|0|Unknown|?|0
+140|0|0|0|0|notifyd|notifyd|0|0|0|0|Unknown|?|0
+529|1|0|0.04763423981870875|16759808|BlockerPrivacyExtension|/Applications/AdGuard for Safari.app/Contents/PlugIns/BlockerPrivacyExtension.appex/Contents/MacOS/BlockerPrivacyExtension -AppleLanguages ("en-US")|0|0|0|0|Runnable|R|501
+131|0|0|0|0|distnoted|distnoted|0|0|0|0|Unknown|?|0
+126|0|0|0|0|locationd|locationd|0|0|0|0|Unknown|?|0
+142|0|0.01|0|0|corebrightnessd|corebrightnessd|0|0|0|0|Unknown|?|0

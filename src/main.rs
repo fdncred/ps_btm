@@ -65,5 +65,52 @@ fn main() {
     data_state.init();
     futures::executor::block_on(data_state.update_data());
 
-    println!("{:#?}", data_state);
+    // println!("{:#?}", data_state);
+    // println!("{:#?/}", data_state.data.list_of_processes.unwrap());
+
+    println!("pid|parent_pid|cpu_use_percent|mem_use_percent|mem_use_bytes|name|command|read_bytes_per_sec|write_bytes_per_sec|total_read_bytes|total_write_bytes|process_state|process_state_char|uid");
+    match data_state.data.list_of_processes {
+        Some(procs) => {
+            for x in procs {
+                let pid = x.pid;
+                let parent_pid = match x.parent_pid {
+                    Some(p) => p,
+                    None => 0,
+                };
+                let cpu_use_percent = x.cpu_usage_percent;
+                let mem_use_percent = x.mem_usage_percent;
+                let mem_use_bytes = x.mem_usage_bytes;
+                let name = x.name;
+                let command = x.command;
+                let read_bytes_per_sec = x.read_bytes_per_sec;
+                let write_bytes_per_sec = x.write_bytes_per_sec;
+                let total_read_bytes = x.total_read_bytes;
+                let total_write_bytes = x.total_write_bytes;
+                let process_state = x.process_state;
+                let process_state_char = x.process_state_char;
+                let uid = match x.uid {
+                    Some(p) => p,
+                    None => 0,
+                };
+                println!(
+                    "{}|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}",
+                    pid,
+                    parent_pid,
+                    cpu_use_percent,
+                    mem_use_percent,
+                    mem_use_bytes,
+                    name,
+                    command,
+                    read_bytes_per_sec,
+                    write_bytes_per_sec,
+                    total_read_bytes,
+                    total_write_bytes,
+                    process_state,
+                    process_state_char,
+                    uid,
+                )
+            }
+        }
+        None => {}
+    }
 }
